@@ -1,0 +1,188 @@
+- repo: aur
+  srcname: discordo-git
+  binname: discordo-git
+  visiblename: discordo-git
+  version: r119.795d557
+  origversion: r119.795d557-3
+  status: rolling
+  summary: A lightweight and feature-rich terminal-based Discord client
+  maintainers:
+    - lexisother@aur
+  licenses:
+    - GPL-3.0-or-later
+- repo: freebsd
+  srcname: net-im/discordo
+  binname: discordo
+  visiblename: net-im/discordo
+  version: g20220909
+  origversion: g20220909_39
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - lcook@freebsd.org
+  categories:
+    - net-im
+- repo: gentoo_ovl_guru
+  srcname: net-im/discordo
+  visiblename: net-im/discordo
+  version: 0_pre20251202
+  origversion: 0_pre20251202-r1
+  status: noscheme
+  summary: A lightweight, secure, and feature-rich Discord TUI client.
+  maintainers:
+    - guru@gentoo.org
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+  categories:
+    - net-im
+- repo: gentoo_ovl_guru
+  srcname: net-im/discordo
+  visiblename: net-im/discordo
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A lightweight, secure, and feature-rich Discord TUI client.
+  maintainers:
+    - guru@gentoo.org
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+  categories:
+    - net-im
+- repo: liguros_stable
+  srcname: net-im/discordo
+  visiblename: net-im/discordo
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A lightweight, secure, and feature-rich Discord TUI client.
+  maintainers:
+    - ingenarelitems@gmail.com
+  licenses:
+    - MIT
+  categories:
+    - net-im
+- repo: liguros_develop
+  srcname: net-im/discordo
+  visiblename: net-im/discordo
+  version: "9999"
+  origversion: null
+  status: rolling
+  summary: A lightweight, secure, and feature-rich Discord TUI client.
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+  categories:
+    - net-im
+- repo: liguros_develop
+  srcname: net-im/discordo
+  visiblename: net-im/discordo
+  version: 0_pre20251202
+  origversion: 0_pre20251202-r1
+  status: noscheme
+  summary: A lightweight, secure, and feature-rich Discord TUI client.
+  maintainers:
+    - fallback-mnt-liguros@repology
+  licenses:
+    - GPL-3
+    - Apache-2.0
+    - BSD-2
+    - BSD
+    - ISC
+    - MIT
+  categories:
+    - net-im
+- repo: nix_stable_24_05
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2024-04-27
+  origversion: null
+  status: noscheme
+  summary: A lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2024-10-13
+  origversion: null
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2025-04-21
+  origversion: null
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2026-03-30
+  origversion: null
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+    - ayfpan@ucla.edu
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_stable_26_05
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2026-05-12
+  origversion: null
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+    - ayfpan@ucla.edu
+  licenses:
+    - GPL-3.0-or-later
+- repo: nix_unstable
+  srcname: discordo
+  visiblename: discordo
+  version: 0-unstable-2026-08-18
+  origversion: null
+  status: noscheme
+  summary: Lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - arianxdehghani@gmail.com
+    - ayfpan@ucla.edu
+  licenses:
+    - GPL-3.0-or-later
+- repo: termux
+  srcname: discordo
+  binname: discordo
+  visiblename: discordo
+  version: 2026.09.05+g8390e977
+  origversion: null
+  status: noscheme
+  summary: A lightweight, secure, and feature-rich Discord terminal client
+  maintainers:
+    - termux@github
