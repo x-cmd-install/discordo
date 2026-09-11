@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T06:21:23Z
+  collectedAt: 2026-09-11T18:23:37Z
 timeline:
   created: 2021-07-17
   lastCommit: 2026-09-09
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 5770
+  star: 5772
   watcher: 40
   fork: 226
   release: 0
@@ -83,7 +83,7 @@ total:
   commit: 1592
 ---
 path: /home/runner/.x-repo/github.com/ayn2op/discordo
-collectedAt: 2026-09-11T06:21:24Z
+collectedAt: 2026-09-11T18:23:39Z
 loc:
   Go:
     code: 6690
