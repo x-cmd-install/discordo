@@ -14,12 +14,12 @@ x install discordo
 
 ## Code insight
 
-Total: **6,878** lines of code across **70** files in the top 5 languages.
+Total: **6,894** lines of code across **70** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,693 | 116 | 1,041 | 67 |
-| Toml | 185 | 67 | 41 | 1 |
+| Go | 6,708 | 118 | 1,043 | 67 |
+| Toml | 186 | 69 | 41 | 1 |
 | Markdown | 0 | 54 | 36 | 2 |
 
 ## Source
@@ -33,18 +33,18 @@ Total: **6,878** lines of code across **70** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 316 · **Open PRs**: 15 · **Closed issues**: 326 · **Open issues**: 39 · **Commits**: 1594
+- **Releases**: 0 · **Merged PRs**: 317 · **Open PRs**: 15 · **Closed issues**: 327 · **Open issues**: 38 · **Commits**: 1596
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 7 | 1 | 0 | 0 | 28 |
-| last60d | 2026-07-22 | 0 | 13 | 1 | 1 | 4 | 80 |
-| 90d | 2026-06-22 | 0 | 14 | 2 | 4 | 7 | 105 |
-| last180d | 2026-03-24 | 0 | 24 | 3 | 10 | 7 | 194 |
-| 360d | 2025-09-25 | 0 | 99 | 14 | 51 | 17 | 453 |
-| last720d | 2024-09-30 | 0 | 144 | 15 | 136 | 29 | 791 |
+| 30d | 2026-08-22 | 0 | 8 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-23 | 0 | 14 | 1 | 2 | 3 | 0 |
+| 90d | 2026-06-23 | 0 | 15 | 2 | 5 | 6 | 0 |
+| last180d | 2026-03-25 | 0 | 25 | 3 | 11 | 6 | 0 |
+| 360d | 2025-09-26 | 0 | 99 | 14 | 52 | 16 | 0 |
+| last720d | 2024-10-01 | 0 | 145 | 15 | 137 | 28 | 793 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for discordo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:32:52Z._
+_Snapshot: `data/card/260921.yml` · 2026-09-21T06:43:57Z._
