@@ -18,7 +18,7 @@ Total: **6,894** lines of code across **70** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,708 | 118 | 1,043 | 67 |
+| Go | 6,708 | 114 | 1,044 | 67 |
 | Toml | 186 | 69 | 41 | 1 |
 | Markdown | 0 | 54 | 36 | 2 |
 
@@ -33,18 +33,18 @@ Total: **6,894** lines of code across **70** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 317 · **Open PRs**: 15 · **Closed issues**: 327 · **Open issues**: 38 · **Commits**: 1596
+- **Releases**: 0 · **Merged PRs**: 317 · **Open PRs**: 15 · **Closed issues**: 327 · **Open issues**: 38 · **Commits**: 1599
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 0 | 8 | 1 | 0 | 0 | 0 |
-| last60d | 2026-07-23 | 0 | 14 | 1 | 2 | 3 | 0 |
-| 90d | 2026-06-23 | 0 | 15 | 2 | 5 | 6 | 0 |
-| last180d | 2026-03-25 | 0 | 25 | 3 | 11 | 6 | 0 |
-| 360d | 2025-09-26 | 0 | 99 | 14 | 52 | 16 | 0 |
-| last720d | 2024-10-01 | 0 | 145 | 15 | 137 | 28 | 793 |
+| 30d | 2026-08-23 | 0 | 8 | 1 | 0 | 0 | 33 |
+| last60d | 2026-07-24 | 0 | 14 | 1 | 2 | 3 | 85 |
+| 90d | 2026-06-24 | 0 | 15 | 2 | 5 | 6 | 110 |
+| last180d | 2026-03-26 | 0 | 23 | 3 | 11 | 6 | 199 |
+| 360d | 2025-09-27 | 0 | 99 | 14 | 52 | 16 | 458 |
+| last720d | 2024-10-02 | 0 | 145 | 15 | 136 | 28 | 796 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for discordo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T06:43:57Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:43:31Z._
