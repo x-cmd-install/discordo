@@ -14,11 +14,11 @@ x install discordo
 
 ## Code insight
 
-Total: **6,894** lines of code across **70** files in the top 5 languages.
+Total: **6,897** lines of code across **70** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 6,708 | 114 | 1,044 | 67 |
+| Go | 6,711 | 114 | 1,046 | 67 |
 | Toml | 186 | 69 | 41 | 1 |
 | Markdown | 0 | 54 | 36 | 2 |
 
@@ -29,22 +29,22 @@ Total: **6,894** lines of code across **70** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,784 · **Forks**: 229 · **Open issues**: 365 · **Contributors**: 40
+- **Stars**: 5,786 · **Forks**: 229 · **Open issues**: 365 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 317 · **Open PRs**: 15 · **Closed issues**: 327 · **Open issues**: 38 · **Commits**: 1599
+- **Releases**: 0 · **Merged PRs**: 317 · **Open PRs**: 15 · **Closed issues**: 327 · **Open issues**: 38 · **Commits**: 1600
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 8 | 1 | 0 | 0 | 33 |
-| last60d | 2026-07-26 | 0 | 14 | 1 | 2 | 3 | 85 |
-| 90d | 2026-06-26 | 0 | 15 | 2 | 5 | 6 | 110 |
-| last180d | 2026-03-28 | 0 | 23 | 3 | 11 | 6 | 199 |
-| 360d | 2025-09-29 | 0 | 99 | 14 | 52 | 16 | 458 |
-| last720d | 2024-10-04 | 0 | 145 | 15 | 136 | 27 | 795 |
+| 30d | 2026-08-26 | 0 | 8 | 1 | 0 | 0 | 34 |
+| last60d | 2026-07-27 | 0 | 14 | 1 | 2 | 3 | 86 |
+| 90d | 2026-06-27 | 0 | 15 | 2 | 4 | 6 | 111 |
+| last180d | 2026-03-29 | 0 | 22 | 3 | 11 | 6 | 200 |
+| 360d | 2025-09-30 | 0 | 99 | 14 | 52 | 16 | 459 |
+| last720d | 2024-10-05 | 0 | 145 | 15 | 136 | 27 | 796 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for discordo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T06:02:38Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T06:16:14Z._
