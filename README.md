@@ -28,22 +28,22 @@ Total: **9,675** lines of code across **99** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,826 · **Forks**: 232 · **Open issues**: 366 · **Contributors**: 40
+- **Stars**: 5,826 · **Forks**: 233 · **Open issues**: 366 · **Contributors**: 40
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 319 · **Open PRs**: 11 · **Closed issues**: 338 · **Open issues**: 28 · **Commits**: 1691
+- **Releases**: 0 · **Merged PRs**: 319 · **Open PRs**: 12 · **Closed issues**: 338 · **Open issues**: 28 · **Commits**: 1693
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 3 | 1 | 2 | 0 | 97 |
-| last60d | 2026-08-15 | 0 | 10 | 2 | 2 | 0 | 138 |
-| 90d | 2026-07-16 | 0 | 16 | 3 | 4 | 3 | 184 |
-| last180d | 2026-04-17 | 0 | 23 | 3 | 12 | 3 | 267 |
-| 360d | 2025-10-19 | 0 | 99 | 10 | 59 | 10 | 534 |
-| last720d | 2024-10-24 | 0 | 147 | 11 | 142 | 17 | 878 |
+| 30d | 2026-09-15 | 0 | 3 | 2 | 2 | 0 | 99 |
+| last60d | 2026-08-16 | 0 | 10 | 3 | 2 | 0 | 140 |
+| 90d | 2026-07-17 | 0 | 16 | 4 | 4 | 3 | 186 |
+| last180d | 2026-04-18 | 0 | 23 | 4 | 12 | 3 | 269 |
+| 360d | 2025-10-20 | 0 | 99 | 11 | 59 | 10 | 536 |
+| last720d | 2024-10-25 | 0 | 147 | 12 | 142 | 17 | 880 |
 
 ## Improve this data
 
@@ -54,4 +54,4 @@ Install metadata for discordo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:16:11Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:59:44Z._
