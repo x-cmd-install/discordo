@@ -180,7 +180,7 @@
   srcname: discordo
   binname: discordo
   visiblename: discordo
-  version: 2026.10.17+gb860df0a
+  version: 2026.10.26+g9836b13d
   origversion: null
   status: noscheme
   summary: A lightweight, secure, and feature-rich Discord terminal client
