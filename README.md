@@ -28,7 +28,7 @@ Total: **18,117** lines of code across **134** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 5,860 · **Forks**: 237 · **Open issues**: 368 · **Contributors**: 41
+- **Stars**: 5,864 · **Forks**: 237 · **Open issues**: 368 · **Contributors**: 41
 
 ## Totals (cumulative)
 
@@ -38,12 +38,12 @@ Total: **18,117** lines of code across **134** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 0 | 11 | 9 | 3 | 1 | 90 |
-| last60d | 2026-09-06 | 0 | 14 | 9 | 3 | 1 | 172 |
-| 90d | 2026-08-07 | 0 | 20 | 10 | 6 | 3 | 225 |
-| last180d | 2026-05-09 | 0 | 32 | 11 | 14 | 3 | 320 |
-| 360d | 2025-11-10 | 0 | 104 | 14 | 56 | 10 | 589 |
-| last720d | 2024-11-15 | 0 | 156 | 15 | 137 | 16 | 946 |
+| 30d | 2026-10-07 | 0 | 10 | 9 | 3 | 1 | 90 |
+| last60d | 2026-09-07 | 0 | 14 | 9 | 3 | 1 | 172 |
+| 90d | 2026-08-08 | 0 | 20 | 10 | 6 | 3 | 225 |
+| last180d | 2026-05-10 | 0 | 32 | 11 | 14 | 3 | 320 |
+| 360d | 2025-11-11 | 0 | 104 | 14 | 56 | 10 | 589 |
+| last720d | 2024-11-16 | 0 | 156 | 15 | 137 | 16 | 946 |
 
 ## Improve this data
 
@@ -54,4 +54,4 @@ Install metadata for discordo lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:13:45Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:14:15Z._
