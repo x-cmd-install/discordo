@@ -15,7 +15,7 @@
   binname: discordo
   visiblename: net-im/discordo
   version: g20220909
-  origversion: g20220909_41
+  origversion: g20220909_42
   status: noscheme
   summary: Lightweight, secure, and feature-rich Discord terminal client
   maintainers:
